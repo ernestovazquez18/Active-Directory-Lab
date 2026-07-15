@@ -2,14 +2,7 @@
 
 ## Project Overview
 
-Built a Windows Server 2025 Active Directory environment in VirtualBox to simulate enterprise identity management.
-
-## Technologies
-
-- Windows Server 2025
-- Active Directory Domain Services
-- VirtualBox
-- Windows Administration
+Built a Windows Server 2025 Active Directory environment using VirtualBox.
 
 ## Domain
 
@@ -21,18 +14,17 @@ vaztech.local
 - HR
 - Sales
 
-## Tasks Completed
+## Group Policies
 
-- Installed Windows Server 2025
-- Promoted server to Domain Controller
-- Created Active Directory domain
-- Created Organizational Units
-- Created User Accounts
-- Managed Security Groups
+### Password Policy
+
+- Minimum length: 12 characters
+- Complexity requirements enabled
+- Maximum password age: 90 days
 
 ## Skills Demonstrated
 
 - Active Directory Administration
-- Identity and Access Management
-- User Management
 - Windows Server Administration
+- Identity and Access Management
+- Group Policy Management
