@@ -211,3 +211,19 @@ Planned improvements include:
 - Group Policy Management
 - VirtualBox
 - Windows Administration
+## Domain Joined Workstation
+
+Created a Windows 11 Enterprise workstation (PC01) and successfully joined it to the vaztech.local Active Directory domain.
+
+### Validation
+
+- Domain join completed successfully
+- DNS resolution verified
+- Connectivity to Domain Controller validated
+- Active Directory authentication enabled
+
+### Workstation
+
+- Hostname: PC01
+- Domain: vaztech.local
+
